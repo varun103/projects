@@ -1,0 +1,10 @@
+*** Aggressive approach - Inflation adjusted ***
+Worst Case -  5444.450779274239
+Best Case -  9565182.073962115
+Median -  332466.06300964474
+
+
+*** Very Conservative approach - Inflation adjusted *** 
+Worst Case -  34194.945003680776
+Best Case -  742436.0739164953
+Median -  164438.80711761807
